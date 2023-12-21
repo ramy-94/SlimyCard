@@ -12,7 +12,7 @@ SlimyCard provides a beautiful slime-like animation of a Card that separates int
     
     ```
     dependencies:
-      slimy_card: ^1.0.4
+      slimy_card: ^1.0.5
     ```
     
   - **2. Install it**
