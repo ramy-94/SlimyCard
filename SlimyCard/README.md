@@ -131,9 +131,9 @@ I'm a veteran Designer/Animator with **10+ years** of experience. I always hated
 
 # Other Repo you may Like
 
-[![Explore Flutter Firebase](https://raw.githubusercontent.com/AkashDivya/Explore-Flutter-FireStore/master/images/Banner.jpg)](https://github.com/AkashDivya/Explore-Flutter-FireStore)
+[![Explore Flutter Firebase](https://raw.githubusercontent.com/AkashDivya/Explore-Flutter-FireStore/master/images/Banner.jpg)](https://github.com/ramy-94/SlimyCard)
 
-[Visit this Repo](https://github.com/AkashDivya/Explore-Flutter-FireStore)
+[Visit this Repo](https://github.com/ramy-94/SlimyCard)
 
 # My Links
 
