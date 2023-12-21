@@ -1,4 +1,4 @@
-## [1.0.5] - Apr 21, 2023
+## [1.0.5] - Det 21, 2023
 
 * Updated the arrow color changing when using dark theme.
   
