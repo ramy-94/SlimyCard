@@ -2,7 +2,7 @@
 
 SlimyCard provides a beautiful slime-like animation of a Card that separates into two different Cards, one at the top and the another at bottom. It is possible to put any custom widget in these two separate cards.
 
-![Banner Image](https://raw.githubusercontent.com/AkashDivya/SlimyCard-Animated-Flutter-Package/master/images/SlimyCard-Animated-Flutter-Package-by-Akash-Divya.png)
+![Banner Image]()
 
 # How to install this package
 
