@@ -137,14 +137,14 @@ I'm a veteran Designer/Animator with **10+ years** of experience. I always hated
 
 # My Links
 
-**[Facebook](https://www.facebook.com/BadassDeveloperDesignerClub)**
+**[Facebook](https://www.facebook.com/)**
 
-**[YouTube](https://www.youtube.com/channel/UCo7mhMbZXaNgpyT7gM6mWDQ)**
+**[YouTube](https://www.youtube.com/channel/)**
 
-**[Dribbble](https://www.dribbble.com/akashdivya)**
+**[Dribbble](https://www.dribbble.com/)**
 
-**[Behance](https://www.behance.net/akashdivya)**
+**[Behance](https://www.behance.net/)**
 
-**Email: akash.apd@gmail.com**
+**Email: ramylavant@gmail.com**
 
 **Now go out there and do what you Love.**
