@@ -1,3 +1,7 @@
+## [1.0.5] - Apr 21, 2023
+
+* Updated the arrow color changing when using dark theme.
+  
 ## [1.0.4] - Apr 15, 2020
 
 * Updated the arrow color changing when using dark theme.
